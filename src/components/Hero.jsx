@@ -36,15 +36,16 @@ const Hero = () => {
         >
           Contact With Me
         </button>
-      <a
-  href="https://drive.google.com/uc?export=download&id=1iesQdYlbSVR5ZaNONh0GZWnMjyqgyBF_"
+     <a
+  href="https://drive.google.com/file/d/1iesQdYlbSVR5ZaNONh0GZWnMjyqgyBF_/view?usp=sharing"
   target="_blank"
   rel="noopener noreferrer"
   className="bg-gradient-to-r from-pink-500 to-yellow-500 text-white
   transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full inline-block"
 >
-  Download Resume
+  View Resume
 </a>
+
 
       </div>
     </div>
